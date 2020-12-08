@@ -7,3 +7,6 @@
 [submodule "custom/themes/powerlevel10k"]
 	path = custom/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "custom/plugins/zsh-nvm"]
+	path = custom/plugins/zsh-nvm
+	url = https://github.com/lukechilds/zsh-nvm
